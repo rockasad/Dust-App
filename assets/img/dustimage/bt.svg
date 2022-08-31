@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="101.5" viewBox="0 0 79 101.5">
+  <defs>
+    <filter id="Path_10" x="0" y="0" width="79" height="83" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ic_bluetooth_24px" x="22.607" y="20.057" width="34.063" height="43.276" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="ic_bluetooth_24px-2" x="22.607" y="20.057" width="34.063" height="43.276" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="22.5" y="66.5" width="34" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#013601" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2-2" x="22.5" y="66.5" width="34" height="35" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_2_1" data-name="Component 2 – 1" transform="translate(19.5 16.5)">
+    <g id="Group_4" data-name="Group 4" transform="translate(-0.422 -0.161)">
+      <g transform="matrix(1, 0, 0, 1, -19.08, -16.34)" filter="url(#Path_10)">
+        <path id="Path_10-2" data-name="Path 10" d="M20,0A20,20,0,0,1,40,20v4A20,20,0,0,1,0,24V20A20,20,0,0,1,20,0Z" transform="translate(19.5 16.5)" fill="#fff"/>
+      </g>
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -19.08, -16.34)" filter="url(#ic_bluetooth_24px)">
+          <path id="ic_bluetooth_24px-3" data-name="ic_bluetooth_24px" d="M21.063,9.216,13.847,2H12.583v9.592l-5.8-5.8L5,7.573l7.065,7.065L5,21.7l1.782,1.782,5.8-5.8v9.592h1.264l7.216-7.216-5.434-5.422,5.434-5.422ZM15.11,6.84l2.376,2.376L15.11,11.592ZM17.486,20.06,15.11,22.436V17.684l2.376,2.376Z" transform="translate(26.61 24.06)" fill="#4385ef"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -19.08, -16.34)" filter="url(#ic_bluetooth_24px-2)">
+          <path id="ic_bluetooth_24px-4" data-name="ic_bluetooth_24px" d="M21.063,9.216,13.847,2H12.583v9.592l-5.8-5.8L5,7.573l7.065,7.065L5,21.7l1.782,1.782,5.8-5.8v9.592h1.264l7.216-7.216-5.434-5.422,5.434-5.422ZM15.11,6.84l2.376,2.376L15.11,11.592ZM17.486,20.06,15.11,22.436V17.684l2.376,2.376Z" transform="translate(26.61 24.06)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, -19.5, -16.5)" filter="url(#Ellipse_2)">
+        <ellipse id="Ellipse_2-3" data-name="Ellipse 2" cx="8" cy="8.5" rx="8" ry="8.5" transform="translate(31.5 72.5)" fill="#c4c4c4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -19.5, -16.5)" filter="url(#Ellipse_2-2)">
+        <ellipse id="Ellipse_2-4" data-name="Ellipse 2" cx="8" cy="8.5" rx="8" ry="8.5" transform="translate(31.5 72.5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "The Dust Measurement System",
+    "slug": "The Dust Measurement System",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "The Dust Measurement System"
+}

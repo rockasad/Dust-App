@@ -1,0 +1,83 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@ant-design/charts": "^1.2.13",
+    "@highcharts/highcharts-react-native": "^3.1.7",
+    "@react-native-community/art": "^1.2.0",
+    "@react-native-community/datetimepicker": "^6.3.0",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-community/slider": "^4.1.7",
+    "@react-navigation/native": "^6.0.4",
+    "@react-navigation/native-stack": "^6.2.2",
+    "@react-navigation/stack": "^6.0.7",
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "clchart": "^0.1.0",
+    "convert-string": "^0.1.0",
+    "expo": "~42.0.1",
+    "expo-splash-screen": "~0.11.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.8.1",
+    "force": "0.0.3",
+    "moment": "^2.29.4",
+    "popup-ui": "^1.2.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-awesome-alerts": "^1.5.2",
+    "react-native-ble-manager": "^7.6.1",
+    "react-native-ble-plx": "^2.0.2",
+    "react-native-chart": "^1.0.8-beta",
+    "react-native-chart-kit": "^6.11.0",
+    "react-native-charts-wrapper": "^0.5.7",
+    "react-native-cool-speedometer": "^0.5.0",
+    "react-native-customisable-alert": "^0.1.20",
+    "react-native-date-picker": "^4.2.5",
+    "react-native-elements": "^3.4.2",
+    "react-native-flash-message": "^0.2.0",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-haptic-feedback": "^1.11.0",
+    "react-native-line-chart": "^1.0.4",
+    "react-native-loading-spinner-overlay": "^2.0.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-month-year-picker": "^1.8.1",
+    "react-native-navigation-bar-color": "^2.0.1",
+    "react-native-ratings": "^8.1.0",
+    "react-native-reanimated": "^2.2.2",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "react-native-router-flux": "^4.3.1",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.7.2",
+    "react-native-semi-circular-gauge": "^2.0.2",
+    "react-native-simple-gauge": "^0.3.1",
+    "react-native-super-range-slider": "^0.2.5",
+    "react-native-svg": "^12.1.1",
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-unimodules": "~0.14.5",
+    "react-native-wagmi-charts": "^1.0.3",
+    "react-native-web": "~0.13.12",
+    "react-native-webview": "^11.13.1",
+    "rn-select-date-range": "^3.2.2",
+    "sweetalert2": "^11.1.7",
+    "victory-native": "^35.5.5"
+  },
+  "resolutions": {
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-svg": "^12.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./fonts"
+    ]
+  }
+}
